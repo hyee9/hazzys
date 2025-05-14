@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "Noto Sans";
+    src: url("../fonts/noto-sans-kr-v13-korean-300.woff") format("woff");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Noto Sans";
+    src: url("../fonts/noto-sans-kr-v13-korean-500.woff") format("woff");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Noto Sans";
+    src: url("../fonts/noto-sans-kr-v13-korean-700.woff") format("woff");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url("../fonts/Gotham-Medium.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: "Gotham";
+    src: url("../fonts/Gotham-Light.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Gotham";
+    src: url("../fonts/Gotham-Bold.woff2") format("woff2");
+    font-style: normal;
+    font-weight: 700;
+}
